@@ -27,7 +27,7 @@ assets:
   - {seq: 1, role: markers, filename: assets/KR3ek017_001.markers.yaml, hash: 'sha256:f4871be7788fb8b494c08f89140bb99f0d0c72489d8155e65997f4a945c4813d'}
   - {seq: 2, role: markers, filename: assets/KR3ek017_002.markers.yaml, hash: 'sha256:a99e1d2266864e9137094111ea5918957b1120e1920e6aecce9e3064ee8ea8a0'}
   - {seq: 3, role: markers, filename: assets/KR3ek017_003.markers.yaml, hash: 'sha256:cd6e191a07e0922f9feb6bf3a30d5569dab258a03a375fac3878709f4f3c6bac'}
-  - {seq: 4, role: markers, filename: assets/KR3ek017_004.markers.yaml, hash: 'sha256:33f3d8fba6037e5b2ba77461a22dac86dee7407e41825723a638d3841edae400'}
+  - {seq: 4, role: markers, filename: assets/KR3ek017_004.markers.yaml, hash: 'sha256:6ff74f698a7139554e55f2c2eb5df3b62885b25fc135ad03a167ba616f84efed'}
 table_of_contents:
 - ref:
     seq: 0
@@ -4799,7 +4799,7 @@ table_of_contents:
   label: 楓子膏方
   type: section
   level: 3
-hash: sha256:aa84b4802627e164c16d71466bf96a643964012a7f56b05093abfec2b5b6a778
+hash: sha256:290603eae2472ed3599eec3a8ebcfc91e68149433bb23d375050a29b3690c6c5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
