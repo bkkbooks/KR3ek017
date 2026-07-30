@@ -17,13 +17,13 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ek017_000-jc.yaml, hash: 'sha256:5c7b981ff1327f4d2944e024a9e98d4737aec2b1be71370039b51b286b95baa5'}
+  - {seq: 0, filename: KR3ek017_000-jc.yaml, hash: 'sha256:d9b13d6c31dea09d9dcac11cc2d5a0e87c67eab2a4cb0ecc0a7d1646907ac30a'}
   - {seq: 1, filename: KR3ek017_001-jc.yaml, hash: 'sha256:c4a64665f02cca4c5ad2d4fd0b10f5817785e8caf7a3cd011086f2a5f1a6c34e'}
   - {seq: 2, filename: KR3ek017_002-jc.yaml, hash: 'sha256:f12d33b3b605188b2de498c80ce9e06d5a6a59e6da870b38d2465dc6bef40fb6'}
   - {seq: 3, filename: KR3ek017_003-jc.yaml, hash: 'sha256:f373e36bc071bd013a469f30845611b234ec1410a7526d8803aa6f90f6ad3e29'}
   - {seq: 4, filename: KR3ek017_004-jc.yaml, hash: 'sha256:124ed4ecce71293bb7755d64f73258262fd42899420f1aa6288e7a7c2c814a1f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek017_000-jc.markers.yaml, hash: 'sha256:f2838c96255c959b26b0369428d6ae8abe281f19c588cdb4dff3cdccf5d26cbb'}
+  - {seq: 0, role: markers, filename: assets/KR3ek017_000-jc.markers.yaml, hash: 'sha256:a1e8cbafe3e61c02122bf8069f803b5db3498683f7d6975e07c568b3c60b1dcb'}
   - {seq: 1, role: markers, filename: assets/KR3ek017_001-jc.markers.yaml, hash: 'sha256:694d41a43750647e381ee4f30bd0e11e14655a912e83150f3923064ec745d819'}
   - {seq: 2, role: markers, filename: assets/KR3ek017_002-jc.markers.yaml, hash: 'sha256:471b81309f322402364975441e4cc10b95580a5d6e4da101416a3ded0c46f580'}
   - {seq: 3, role: markers, filename: assets/KR3ek017_003-jc.markers.yaml, hash: 'sha256:b15eeff0475183a1c263cdade1ac96abb47f211995ee3760c248d873def9afd5'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek017_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 185
   label: 潘序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek017_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 185
     - 698
   label: 黃序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek017_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 698
     - 1452
   label: 王序
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek017_jc_000-d5.h1s1
     span:
-    - front
+    - body
     - 1452
     - 2014
   label: 馬評湯序
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek017_jc_000-d6.h1s1
     span:
-    - front
+    - body
     - 2014
     - 2602
   label: 馬評吳序
@@ -83,7 +83,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek017_jc_000-d7.h1s1
     span:
-    - front
+    - body
     - 2602
     - 3002
   label: 自序
@@ -94,8 +94,8 @@ table_of_contents:
     marker_id: KR3ek017_jc_000-d8.h1s1
     span:
     - body
-    - 0
-    - 830
+    - 3002
+    - 3832
   label: 凡例
   type: section
   level: 1
@@ -104,8 +104,8 @@ table_of_contents:
     marker_id: KR3ek017_jc_000-d9.h1s1
     span:
     - body
-    - 830
-    - 1472
+    - 3832
+    - 4474
   label: 重訂凡例
   type: section
   level: 1
@@ -4799,4 +4799,4 @@ table_of_contents:
   label: 楓子膏方
   type: section
   level: 3
-hash: sha256:807ab2af61e8614ac854bd751ee0777e7b0707dad93a3189860f60f617887be6
+hash: sha256:d9ede91397d8035086ea761180387b0c5fc0fe3335654ad755270cea0f4af4b7
